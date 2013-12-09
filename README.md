@@ -1,3 +1,7 @@
+# Demo
+
+[View demo](http://artsy.github.io/artsy-iconfont/output/demo.html)
+
 # Editing the icon font
 
 ## Preparing artwork
