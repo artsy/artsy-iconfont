@@ -5,13 +5,16 @@
 	 width="32px" height="32px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve">
 <g>
 	<g>
-		<g>
-			<path d="M16.688,20.206c-0.196,0.168-0.44,0.252-0.687,0.252c-0.247,0-0.486-0.084-0.689-0.252L6,12.071V23h20V12L16.688,20.206z
-				"/>
-		</g>
+		<rect x="8" y="18" width="15" height="2"/>
 	</g>
 	<g>
-		<polygon points="7,9 16,17 25,9 		"/>
+		<rect x="8" y="11" width="3" height="3"/>
+	</g>
+	<g>
+		<rect x="14" y="11" width="3" height="3"/>
+	</g>
+	<g>
+		<rect x="20" y="11" width="3" height="3"/>
 	</g>
 </g>
 </svg>
