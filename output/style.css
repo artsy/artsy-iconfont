@@ -2,8 +2,8 @@
 	font-family: 'artsy-icons';
 	src:url('fonts/artsy-icons.eot');
 	src:url('fonts/artsy-icons.eot?#iefix') format('embedded-opentype'),
-		url('fonts/artsy-icons.ttf') format('truetype'),
 		url('fonts/artsy-icons.woff') format('woff'),
+		url('fonts/artsy-icons.ttf') format('truetype'),
 		url('fonts/artsy-icons.svg#artsy-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
@@ -116,9 +116,6 @@
 .icon-chevron-small-up:before {
 	content: "\e61b";
 }
-.icon-chevron-small-right:before {
-	content: "\e61c";
-}
 .icon-chevron-small-left:before {
 	content: "\e61d";
 }
@@ -130,4 +127,7 @@
 }
 .icon-heart-small:before {
 	content: "\e622";
+}
+.icon-chevron-small-right:before {
+	content: "\e61c";
 }
