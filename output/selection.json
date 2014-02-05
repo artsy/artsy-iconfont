@@ -137,7 +137,7 @@
 				"code": 58887
 			},
 			"setIdx": 3,
-			"iconIdx": 16
+			"iconIdx": 17
 		},
 		{
 			"icon": {
@@ -159,7 +159,7 @@
 				"code": 58893
 			},
 			"setIdx": 3,
-			"iconIdx": 8
+			"iconIdx": 9
 		},
 		{
 			"icon": {
@@ -205,7 +205,7 @@
 				"code": 58880
 			},
 			"setIdx": 3,
-			"iconIdx": 2
+			"iconIdx": 3
 		},
 		{
 			"icon": {
@@ -228,7 +228,7 @@
 				"code": 58881
 			},
 			"setIdx": 3,
-			"iconIdx": 3
+			"iconIdx": 4
 		},
 		{
 			"icon": {
@@ -251,7 +251,7 @@
 				"code": 58899
 			},
 			"setIdx": 3,
-			"iconIdx": 13
+			"iconIdx": 14
 		},
 		{
 			"icon": {
@@ -273,7 +273,7 @@
 				"code": 58900
 			},
 			"setIdx": 3,
-			"iconIdx": 14
+			"iconIdx": 15
 		},
 		{
 			"icon": {
@@ -295,7 +295,7 @@
 				"code": 58886
 			},
 			"setIdx": 3,
-			"iconIdx": 15
+			"iconIdx": 16
 		},
 		{
 			"icon": {
@@ -318,7 +318,7 @@
 				"code": 58883
 			},
 			"setIdx": 3,
-			"iconIdx": 5
+			"iconIdx": 6
 		},
 		{
 			"icon": {
@@ -341,7 +341,7 @@
 				"code": 58884
 			},
 			"setIdx": 3,
-			"iconIdx": 6
+			"iconIdx": 7
 		},
 		{
 			"icon": {
@@ -363,7 +363,7 @@
 				"code": 58885
 			},
 			"setIdx": 3,
-			"iconIdx": 7
+			"iconIdx": 8
 		},
 		{
 			"icon": {
@@ -385,7 +385,7 @@
 				"code": 58889
 			},
 			"setIdx": 3,
-			"iconIdx": 17
+			"iconIdx": 18
 		},
 		{
 			"icon": {
@@ -407,7 +407,7 @@
 				"code": 58890
 			},
 			"setIdx": 3,
-			"iconIdx": 18
+			"iconIdx": 19
 		},
 		{
 			"icon": {
@@ -430,28 +430,6 @@
 				"code": 58891
 			},
 			"setIdx": 3,
-			"iconIdx": 19
-		},
-		{
-			"icon": {
-				"paths": [
-					"M736 672h-480v-416h480v416zM352 576h288v-224h-288v224z"
-				],
-				"grid": 32,
-				"tags": [
-					"artwork"
-				],
-				"defaultCode": 58892
-			},
-			"properties": {
-				"order": 20,
-				"id": 0,
-				"prevSize": 32,
-				"name": "artwork",
-				"ligatures": "",
-				"code": 58892
-			},
-			"setIdx": 3,
 			"iconIdx": 20
 		},
 		{
@@ -466,7 +444,7 @@
 				"defaultCode": 58894
 			},
 			"properties": {
-				"order": 21,
+				"order": 20,
 				"id": 0,
 				"prevSize": 32,
 				"name": "frame",
@@ -474,7 +452,7 @@
 				"code": 58894
 			},
 			"setIdx": 3,
-			"iconIdx": 9
+			"iconIdx": 10
 		},
 		{
 			"icon": {
@@ -488,7 +466,7 @@
 				"defaultCode": 58895
 			},
 			"properties": {
-				"order": 22,
+				"order": 21,
 				"id": 0,
 				"prevSize": 32,
 				"name": "follow",
@@ -496,7 +474,7 @@
 				"code": 58895
 			},
 			"setIdx": 3,
-			"iconIdx": 10
+			"iconIdx": 11
 		},
 		{
 			"icon": {
@@ -513,7 +491,7 @@
 				"defaultCode": 58896
 			},
 			"properties": {
-				"order": 23,
+				"order": 22,
 				"id": 0,
 				"prevSize": 32,
 				"name": "ellipsis",
@@ -521,7 +499,7 @@
 				"code": 58896
 			},
 			"setIdx": 3,
-			"iconIdx": 11
+			"iconIdx": 12
 		},
 		{
 			"icon": {
@@ -536,7 +514,7 @@
 				"defaultCode": 58898
 			},
 			"properties": {
-				"order": 24,
+				"order": 23,
 				"id": 0,
 				"prevSize": 32,
 				"name": "edit",
@@ -544,7 +522,7 @@
 				"code": 58898
 			},
 			"setIdx": 3,
-			"iconIdx": 12
+			"iconIdx": 13
 		},
 		{
 			"icon": {
@@ -557,7 +535,7 @@
 				]
 			},
 			"properties": {
-				"order": 25,
+				"order": 24,
 				"id": 0,
 				"prevSize": 32,
 				"code": 58905,
@@ -565,7 +543,7 @@
 				"ligatures": ""
 			},
 			"setIdx": 3,
-			"iconIdx": 1
+			"iconIdx": 2
 		},
 		{
 			"icon": {
@@ -579,7 +557,7 @@
 				]
 			},
 			"properties": {
-				"order": 26,
+				"order": 25,
 				"id": 0,
 				"prevSize": 32,
 				"code": 58906,
@@ -587,7 +565,7 @@
 				"ligatures": ""
 			},
 			"setIdx": 3,
-			"iconIdx": 0
+			"iconIdx": 1
 		},
 		{
 			"icon": {
@@ -606,7 +584,7 @@
 				]
 			},
 			"properties": {
-				"order": 27,
+				"order": 26,
 				"id": 0,
 				"prevSize": 32,
 				"code": 58911,
@@ -628,7 +606,7 @@
 				]
 			},
 			"properties": {
-				"order": 28,
+				"order": 27,
 				"id": 0,
 				"prevSize": 32,
 				"code": 58912,
@@ -649,7 +627,7 @@
 				]
 			},
 			"properties": {
-				"order": 29,
+				"order": 28,
 				"id": 0,
 				"prevSize": 16,
 				"code": 58907,
@@ -670,7 +648,7 @@
 				]
 			},
 			"properties": {
-				"order": 30,
+				"order": 29,
 				"id": 0,
 				"prevSize": 16,
 				"code": 58909,
@@ -691,7 +669,7 @@
 				]
 			},
 			"properties": {
-				"order": 31,
+				"order": 30,
 				"id": 0,
 				"prevSize": 16,
 				"code": 58910,
@@ -712,7 +690,7 @@
 				]
 			},
 			"properties": {
-				"order": 32,
+				"order": 31,
 				"id": 0,
 				"prevSize": 16,
 				"code": 58913,
@@ -733,7 +711,7 @@
 				]
 			},
 			"properties": {
-				"order": 33,
+				"order": 32,
 				"id": 0,
 				"prevSize": 16,
 				"code": 58914,
@@ -755,7 +733,7 @@
 				"defaultCode": 58908
 			},
 			"properties": {
-				"order": 34,
+				"order": 33,
 				"id": 0,
 				"prevSize": 16,
 				"name": "chevron-small-right",
@@ -776,7 +754,7 @@
 				]
 			},
 			"properties": {
-				"order": 35,
+				"order": 34,
 				"id": 2,
 				"prevSize": 16,
 				"code": 58882,
@@ -797,7 +775,7 @@
 				]
 			},
 			"properties": {
-				"order": 36,
+				"order": 35,
 				"id": 1,
 				"prevSize": 16,
 				"code": 58915,
@@ -820,7 +798,7 @@
 				"defaultCode": 58882
 			},
 			"properties": {
-				"order": 37,
+				"order": 36,
 				"id": 0,
 				"prevSize": 32,
 				"name": "share",
@@ -828,7 +806,50 @@
 				"code": 58916
 			},
 			"setIdx": 3,
-			"iconIdx": 4
+			"iconIdx": 5
+		},
+		{
+			"icon": {
+				"paths": [
+					"M256 256v416h480v-416h-480zM672 384h-352v-64h352v64z"
+				],
+				"grid": 32,
+				"tags": [
+					"website"
+				]
+			},
+			"properties": {
+				"order": 37,
+				"id": 1,
+				"prevSize": 32,
+				"code": 58917,
+				"name": "website",
+				"ligatures": ""
+			},
+			"setIdx": 3,
+			"iconIdx": 0
+		},
+		{
+			"icon": {
+				"paths": [
+					"M736 672h-480v-416h480v416zM352 576h288v-224h-288v224z"
+				],
+				"grid": 32,
+				"tags": [
+					"artwork"
+				],
+				"defaultCode": 58892
+			},
+			"properties": {
+				"order": 38,
+				"id": 0,
+				"prevSize": 32,
+				"name": "artwork",
+				"ligatures": "",
+				"code": 58892
+			},
+			"setIdx": 3,
+			"iconIdx": 21
 		}
 	],
 	"height": 1024,

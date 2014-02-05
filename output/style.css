@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'artsy-icons';
-	src:url('fonts/artsy-icons.eot?pyc9jr');
-	src:url('fonts/artsy-icons.eot?#iefixpyc9jr') format('embedded-opentype'),
-		url('fonts/artsy-icons.woff?pyc9jr') format('woff'),
-		url('fonts/artsy-icons.ttf?pyc9jr') format('truetype'),
-		url('fonts/artsy-icons.svg?pyc9jr#artsy-icons') format('svg');
+	src:url('fonts/artsy-icons.eot?e66wfl');
+	src:url('fonts/artsy-icons.eot?#iefixe66wfl') format('embedded-opentype'),
+		url('fonts/artsy-icons.woff?e66wfl') format('woff'),
+		url('fonts/artsy-icons.ttf?e66wfl') format('truetype'),
+		url('fonts/artsy-icons.svg?e66wfl#artsy-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -80,9 +80,6 @@
 .icon-auction:before {
 	content: "\e60b";
 }
-.icon-artwork:before {
-	content: "\e60c";
-}
 .icon-frame:before {
 	content: "\e60e";
 }
@@ -103,6 +100,12 @@
 }
 .icon-share:before {
 	content: "\e624";
+}
+.icon-website:before {
+	content: "\e625";
+}
+.icon-artwork:before {
+	content: "\e60c";
 }
 .icon-logotype:before {
 	content: "\e611";
