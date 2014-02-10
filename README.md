@@ -14,9 +14,9 @@ A script for exporting all open documents to SVGs is include in the root directo
 
 ## Managing the font
 
-The font itself is currently managed through the service http://icomoon.io/ (The login can be found in KeePass). All interface icons should be added to the icon font 'artsy-iconfont'.
+The font itself is currently managed through the service http://icomoon.io.
 
-* Login to IcoMoon
+* Go to [http://iconmoon.io](http://iconmoon.io)
 * Click the purple "Import Icons" and select the output/selection.json file from the root of this project.
 * Click the "arty-icons" set hamburger menu and select "Import to Set"
 * Click the hamburger menu again and select "Select All" to highlight all of the icons
