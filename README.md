@@ -17,11 +17,11 @@ A script for exporting all open documents to SVGs is include in the root directo
 The font itself is currently managed through the service http://icomoon.io/ (The login can be found in KeePass). All interface icons should be added to the icon font 'artsy-iconfont'.
 
 * Login to IcoMoon
-  * The project is titled 'Artsy Iconfont'
-* In the project icons are grouped into categories; currently 'Social', 'Interface', 'Logotype' and 'Logo'
-  * Import your SVGs to the appropriate sets
+* Click the purple "Import Icons" and select the output/selection.json file from the root of this project.
+* Click the "arty-icons" set hamburger menu and select "Import to Set"
+* Click the hamburger menu again and select "Select All" to highlight all of the icons
 * Click through to 'Font', edit any of the names and 'Download'
   * This will provide you with a `.zip` file containing the font files (`.eot`, `.svg`, `.ttf`, `.woff`) and CSS
-    * Replace the contents of `/output` with the contents of the `.zip`
+  * Replace the contents of `/output` with the contents of the `.zip`
 
 There is most definitely room for improvement in this workflow; suggestions welcome.
