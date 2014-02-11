@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'artsy-icons';
-	src:url('fonts/artsy-icons.eot?2krb7s');
-	src:url('fonts/artsy-icons.eot?#iefix2krb7s') format('embedded-opentype'),
-		url('fonts/artsy-icons.woff?2krb7s') format('woff'),
-		url('fonts/artsy-icons.ttf?2krb7s') format('truetype'),
-		url('fonts/artsy-icons.svg?2krb7s#artsy-icons') format('svg');
+	src:url('fonts/artsy-icons.eot?tccbc7');
+	src:url('fonts/artsy-icons.eot?#iefixtccbc7') format('embedded-opentype'),
+		url('fonts/artsy-icons.woff?tccbc7') format('woff'),
+		url('fonts/artsy-icons.ttf?tccbc7') format('truetype'),
+		url('fonts/artsy-icons.svg?tccbc7#artsy-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -25,12 +25,6 @@
 
 .icon-check:before {
 	content: "\e627";
-}
-.icon-logotype-unscaled:before {
-	content: "\e61f";
-}
-.icon-logo-unscaled:before {
-	content: "\e620";
 }
 .icon-logo:before {
 	content: "\e608";
@@ -118,6 +112,12 @@
 }
 .icon-logotype:before {
 	content: "\e611";
+}
+.icon-logotype-unscaled:before {
+	content: "\e61f";
+}
+.icon-logo-unscaled:before {
+	content: "\e620";
 }
 .icon-chevron-small-up:before {
 	content: "\e61b";
