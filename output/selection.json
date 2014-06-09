@@ -959,13 +959,13 @@
 	],
 	"height": 1024,
 	"metadata": {
-		"name": "icomoon"
+		"name": "artsy-icons"
 	},
 	"preferences": {
 		"fontPref": {
 			"prefix": "icon-",
 			"metadata": {
-				"fontFamily": "icomoon",
+				"fontFamily": "artsy-icons",
 				"majorVersion": 1,
 				"minorVersion": 0
 			},
