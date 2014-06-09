@@ -16,7 +16,7 @@ A script for exporting all open documents to SVGs is include in the root directo
 
 The font itself is currently managed through the service http://icomoon.io.
 
-* Go to [http://iconmoon.io](http://iconmoon.io)
+* Go to [http://icomoon.io](http://icomoon.io)
 * Click the purple "Import Icons" and select the output/selection.json file from the root of this project.
 * Click the "arty-icons" set hamburger menu and select "Import to Set"
 * Click the hamburger menu again and select "Select All" to highlight all of the icons
