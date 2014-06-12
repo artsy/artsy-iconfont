@@ -3,10 +3,11 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="32px" height="32px" viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
-<rect x="14" y="8" fill="#010101" width="4" height="16"/>
-<rect x="8" y="14" fill="#010101" width="16" height="4"/>
+<rect x="15" y="12" fill="#010101" width="2" height="8"/>
+<rect x="12" y="15" fill="#010101" width="8" height="2"/>
 <g>
-	<path fill="#010101" d="M16,2c7.699,0,14,6.3,14,14c0,7.699-6.301,14-14,14C8.3,30,2,23.699,2,16C2,8.3,8.3,2,16,2 M16,0
-		C7.2,0,0,7.2,0,16c0,8.801,7.2,16,16,16c8.801,0,16-7.199,16-16C32,7.2,24.801,0,16,0L16,0z"/>
+	<path fill="#010101" d="M16,8.79c3.965,0,7.21,3.244,7.21,7.21c0,3.965-3.245,7.21-7.21,7.21c-3.966,0-7.21-3.245-7.21-7.21
+		C8.79,12.034,12.034,8.79,16,8.79 M16,7.76c-4.532,0-8.24,3.707-8.24,8.24c0,4.532,3.708,8.239,8.24,8.239s8.239-3.707,8.239-8.239
+		C24.239,11.467,20.532,7.76,16,7.76L16,7.76z"/>
 </g>
 </svg>

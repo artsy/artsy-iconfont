@@ -1,16 +1,16 @@
 @font-face {
-	font-family: 'artsy-icons';
-	src:url('fonts/artsy-icons.eot?-fhz9i0');
-	src:url('fonts/artsy-icons.eot?#iefix-fhz9i0') format('embedded-opentype'),
-		url('fonts/artsy-icons.woff?-fhz9i0') format('woff'),
-		url('fonts/artsy-icons.ttf?-fhz9i0') format('truetype'),
-		url('fonts/artsy-icons.svg?-fhz9i0#artsy-icons') format('svg');
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?-b7qv0n');
+	src:url('fonts/icomoon.eot?#iefix-b7qv0n') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-b7qv0n') format('woff'),
+		url('fonts/icomoon.ttf?-b7qv0n') format('truetype'),
+		url('fonts/icomoon.svg?-b7qv0n#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
-	font-family: 'artsy-icons';
+	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
