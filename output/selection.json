@@ -36,7 +36,7 @@
 				]
 			},
 			"properties": {
-				"order": 3,
+				"order": 5,
 				"id": 46,
 				"prevSize": 32,
 				"code": 58921,
@@ -82,7 +82,7 @@
 			},
 			"properties": {
 				"id": 1,
-				"order": 2,
+				"order": 3,
 				"prevSize": 32,
 				"code": 58888,
 				"name": "logo",
@@ -110,7 +110,7 @@
 			},
 			"properties": {
 				"id": 2,
-				"order": 3,
+				"order": 4,
 				"prevSize": 32,
 				"code": 58897,
 				"name": "logotype",
@@ -132,7 +132,7 @@
 			},
 			"properties": {
 				"id": 3,
-				"order": 4,
+				"order": 6,
 				"prevSize": 32,
 				"code": 58904,
 				"name": "facebook",
@@ -154,7 +154,7 @@
 			},
 			"properties": {
 				"id": 4,
-				"order": 6,
+				"order": 8,
 				"prevSize": 32,
 				"code": 58901,
 				"name": "twitter",
@@ -176,7 +176,7 @@
 			},
 			"properties": {
 				"id": 5,
-				"order": 7,
+				"order": 9,
 				"prevSize": 32,
 				"code": 58903,
 				"name": "pinterest",
@@ -198,7 +198,7 @@
 			},
 			"properties": {
 				"id": 6,
-				"order": 8,
+				"order": 10,
 				"prevSize": 32,
 				"code": 58887,
 				"name": "chevron-right",
@@ -220,7 +220,7 @@
 			},
 			"properties": {
 				"id": 7,
-				"order": 9,
+				"order": 11,
 				"prevSize": 32,
 				"code": 58893,
 				"name": "heart",
@@ -242,7 +242,7 @@
 			},
 			"properties": {
 				"id": 8,
-				"order": 10,
+				"order": 12,
 				"prevSize": 32,
 				"code": 58902,
 				"name": "tumblr",
@@ -266,7 +266,7 @@
 			},
 			"properties": {
 				"id": 9,
-				"order": 11,
+				"order": 13,
 				"prevSize": 32,
 				"code": 58880,
 				"name": "write",
@@ -289,7 +289,7 @@
 			},
 			"properties": {
 				"id": 10,
-				"order": 13,
+				"order": 14,
 				"prevSize": 32,
 				"code": 58881,
 				"name": "view-in-room",
@@ -656,7 +656,7 @@
 			},
 			"properties": {
 				"id": 26,
-				"order": 5,
+				"order": 7,
 				"prevSize": 32,
 				"code": 58911,
 				"name": "logotype-unscaled",
@@ -957,13 +957,15 @@
 	],
 	"height": 1024,
 	"metadata": {
-		"name": "icomoon"
+		"name": "artsy-icons"
 	},
 	"preferences": {
 		"fontPref": {
 			"prefix": "icon-",
 			"metadata": {
-				"fontFamily": "icomoon"
+				"fontFamily": "artsy-icons",
+				"majorVersion": 1,
+				"minorVersion": 0
 			},
 			"showGlyphs": true,
 			"metrics": {
