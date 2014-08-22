@@ -14,7 +14,7 @@ A script for exporting all open documents to SVGs is include in the root directo
 
 ## Managing the font
 
-The font itself is currently managed through the service http://icomoon.io. Visit  and
+The font itself is currently managed through the service http://icomoon.io.
 
 * Go to [https://icomoon.io/app/#/select](https://icomoon.io/app/#/select)
 * Log in as it@artsymail.com from the engineering password vault
