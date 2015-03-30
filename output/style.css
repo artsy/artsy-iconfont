@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'artsy-icons';
-	src:url('fonts/artsy-icons.eot?-opkq1i');
-	src:url('fonts/artsy-icons.eot?#iefix-opkq1i') format('embedded-opentype'),
-		url('fonts/artsy-icons.woff?-opkq1i') format('woff'),
-		url('fonts/artsy-icons.ttf?-opkq1i') format('truetype'),
-		url('fonts/artsy-icons.svg?-opkq1i#artsy-icons') format('svg');
+	src:url('fonts/artsy-icons.eot?fn9xdi');
+	src:url('fonts/artsy-icons.eot?#iefixfn9xdi') format('embedded-opentype'),
+		url('fonts/artsy-icons.woff?fn9xdi') format('woff'),
+		url('fonts/artsy-icons.ttf?fn9xdi') format('truetype'),
+		url('fonts/artsy-icons.svg?fn9xdi#artsy-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,8 +23,12 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-facebook-f:before {
+.icon-grid:before {
 	content: "\e62d";
+}
+
+.icon-list:before {
+	content: "\e62e";
 }
 
 .icon-search:before {
