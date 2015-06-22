@@ -1,0 +1,27 @@
+{
+  "name": "artsy-iconfont",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artsy/artsy-iconfont.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artsy/artsy-iconfont/issues"
+  },
+  "homepage": "https://github.com/artsy/artsy-iconfont",
+  "devDependencies": {
+    "del": "^1.2.0",
+    "glob": "^5.0.10",
+    "gulp": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-svgmin": "^1.1.2",
+    "gulpicon": "^0.1.2"
+  }
+}
