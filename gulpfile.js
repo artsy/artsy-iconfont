@@ -8,7 +8,6 @@ var gulpicon = require('gulpicon/tasks/gulpicon');
 var svgmin = require('gulp-svgmin');
 
 var colors = [
-  'black',
   'white',
   'purple'
 ];
@@ -49,7 +48,7 @@ gulp.task('build', ['temp'], function(done) {
     defaultWidth: "32px",
     defaultHeight: "32px",
     colors: namedColors,
-    dynamicColorOnly: true,
+    dynamicColorOnly: false,
     previewTemplate: path.join(__dirname, 'preview.hbs')
   })(done);
 });
