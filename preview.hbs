@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Artsy Icons</title>
+    <style>
+      html {
+        box-sizing: border-box;
+      }
+      *, *:before, *:after {
+        box-sizing: inherit;
+      }
+      body {
+        background-color: #777;
+        text-align: center;
+      }
+      .icon-preview {
+        display: inline-block;
+        position: relative;
+        margin: 20px;
+        padding: 20px;
+        border: 1px solid #666
+      }
+      .icon {
+        display: inline-block;
+        width: 150px;
+        height: 150px;
+        background-size: contain;
+        background-position: center center;
+        background-repeat: no-repeat;
+      }
+      .icon-label {
+        display: block;
+        color: white;
+        margin-bottom: 20px;
+      }
+    </style>
+    <script src='grunticon.loader.js'></script>
+    <script>
+      grunticon(['icons.data.svg.css', 'icons.data.png.css', 'icons.fallback.css']);
+    </script>
+  </head>
+  <body>
+    {{#each icons}}
+      {{#with this}}
+        <div class='icon-preview'>
+          <code class='icon-label'>{{prefix}}{{name}}</code>
+          <div class="icon icon-{{name}}"></div>
+        </div>
+      {{/with}}
+    {{/each}}
+</body>
+</html>
