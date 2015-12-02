@@ -1,17 +1,18 @@
 @font-face {
 	font-family: 'artsy-icons';
-	src:url('fonts/artsy-icons.eot?uo9ko');
-	src:url('fonts/artsy-icons.eot?#iefixuo9ko') format('embedded-opentype'),
-		url('fonts/artsy-icons.woff2?uo9ko') format('woff2'),
-		url('fonts/artsy-icons.ttf?uo9ko') format('truetype'),
-		url('fonts/artsy-icons.woff?uo9ko') format('woff'),
-		url('fonts/artsy-icons.svg?uo9ko#artsy-icons') format('svg');
+	src:url('fonts/artsy-icons.eot?15a2og');
+	src:url('fonts/artsy-icons.eot?15a2og#iefix') format('embedded-opentype'),
+		url('fonts/artsy-icons.woff2?15a2og') format('woff2'),
+		url('fonts/artsy-icons.ttf?15a2og') format('truetype'),
+		url('fonts/artsy-icons.woff?15a2og') format('woff'),
+		url('fonts/artsy-icons.svg?15a2og#artsy-icons') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 [class^="icon-"], [class*=" icon-"] {
-	font-family: 'artsy-icons';
+    /* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'artsy-icons' !important;
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
@@ -24,6 +25,12 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-linkedin-lg:before {
+	content: "\e900";
+}
+.icon-linkedin-sm:before {
+	content: "\e901";
+}
 .icon-circle-chevron:before {
 	content: "\e630";
 }
@@ -171,3 +178,4 @@
 .icon-logotype:before {
 	content: "\e611";
 }
+
