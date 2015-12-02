@@ -21,4 +21,4 @@ The font itself is currently managed through the service http://icomoon.io.
 * Click the hamburger menu again and select "Select All" to highlight all of the icons
 * Click through to 'Font', edit any of the names and 'Download'
   * This will provide you with a `.zip` file containing the font files (`.eot`, `.svg`, `.ttf`, `.woff`) and CSS
-  * Replace the contents of `/output` with the contents of the `.zip`
+  * Replace the contents of `/output` in this repo with the contents of the `.zip`
